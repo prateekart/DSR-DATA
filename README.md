@@ -1,4 +1,4 @@
 DSR-DATA
 ========
 
-Daily Sales Report
+Daily Sales Report for hotels and restaurants.
